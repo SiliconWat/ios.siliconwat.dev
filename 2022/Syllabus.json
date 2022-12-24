@@ -2,11 +2,11 @@
     "course": {
         "title": "A Complete iOS Metaverse Course for JavaScript Engineers",
         "subtitle": "2025 Edition",
-        "medium": null,
-        "udemy": "https://siliconwat.com/#ios.siliconwat.com",
+        "medium": "https://medium.com/@thonly/about",
+        "udemy": "https://www.udemy.com/user/thonly",
         "youtube": "https://youtube.com/@SiliconWat",
         "github": "https://github.com/SiliconWat/ios-cohort",
-        "discord": null
+        "discord": "https://discord.gg/9MAGPryJpN"
     },
     "units": [
         {
